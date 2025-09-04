@@ -32,7 +32,7 @@ header > h1 {
 header > p {
     margin: 0px;
     font-family: var(--font-standard);
-    font-size: clamp(0.8rem, 1.1vw, 1.1rem);
+    font-size: clamp(0.9rem, 1.1vw, 1.1rem);
 }
 
 a {
@@ -99,7 +99,7 @@ footer {
 
 footer > p {
     font-family: var(--font-standard);
-    font-size: clamp(0.7rem, 1vw, 1rem);
+    font-size: clamp(0.8rem, 1vw, 1rem);
     color: white;
     margin: 0px;
 }
